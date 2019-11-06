@@ -9,3 +9,7 @@ Segue algumas possíveis referências com códigos para criação de imagens em 
   <li> http://www.imagemagick.org/script/magick-core.php </li> 
   <li> https://www.mycplus.com/free-utilities/dynamic-image-creation/ </li> 
     </ul>
+
+  06/11:
+  Depois de algumas pesquisas, decidi que usarei o Eclipse como IDE para escrever o projeto.
+  
