@@ -13,3 +13,5 @@ Segue algumas possíveis referências com códigos para criação de imagens em 
   06/11:
   Depois de algumas pesquisas, decidi que usarei o Eclipse como IDE para escrever o projeto.
   
+  11/11:
+  Começamos a escrever os arquivos .c e .h, porém ainda estão bem crus, pois não sabemos como implantar as primitivas básicas, temos algumas dúvidas ainda.
