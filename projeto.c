@@ -61,12 +61,12 @@ void criar_imagem(){
     scanf("%i", dimx);
     printf("Digite o tamanho da imagem em pixels na vertical\n");
     scanf("%i", dimy);
-    fprintf(fp, "P6\n%i %i\n 255\n", dimx, dimy);
+    fprintf(fp, "P3\n%i %i\n 255\n", dimx, dimy);
      return "imagem criada com sucesso";
 }
 
 void colorir_imagem(){
-    fprintf(stderr, "%s\n", );
+   
 }
 
 void limpa_imagem(){
